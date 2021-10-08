@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RahmadinaIkaPutri_00000034690_IF570_EL_UTS</string>
+    <string name="link1">
+        <a href="https://github.com/hdodenhof/CircleImageView">https://github.com/hdodenhof/CircleImageView</a>
+    </string>
+    <string name="link2">
+        <a href="https://www.youtube.com/watch?v=0s6x3Sn4eYo">https://www.youtube.com/watch?v=0s6x3Sn4eYo</a>
+    </string>
+    <string name="link3">
+        <a href="https://stackoverflow.com">stackoverflow.com</a>
+    </string>
+    <string name="link4">
+        <a href="https://www.youtube.com/watch?v=K5DWzHZZGB8&amp;t=617s">
+            https://www.youtube.com/watch?v=K5DWzHZZGB8&amp;t=617s</a>
+    </string>
+    <string name="link5">
+        <a href="https://www.youtube.com/watch?v=oh4YOj9VkVE">
+            https://www.youtube.com/watch?v=oh4YOj9VkVE</a>
+    </string>
+    <string name="link6">
+        <a href="https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA">Youtube Channel: Coding in Flow</a>
+    </string>
+</resources>
